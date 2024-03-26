@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.fiap-logo{
+    width: 80px;
+    height: 80px;
+    display: block;
+    margin: auto;
+}
+.titulo-curso{
+    text-align: center;
+    color: #F52A48;
+}
+.imagem-curso{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+.subtitulo-curso{
+    text-align: center;
+    color: #F52A48;
+}
+.texto-curso{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 20px;
+}
+.links{
+    text-align: center;
+}
