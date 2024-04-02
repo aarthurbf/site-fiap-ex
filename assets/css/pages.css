@@ -12,6 +12,7 @@ body {
     color: #F52A48;
 }
 .imagem-curso{
+    box-shadow: 10px 10px 10px darkgray;
     width: 150px;
     height: 150px;
     display: block;
