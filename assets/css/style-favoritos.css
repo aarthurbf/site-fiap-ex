@@ -1,0 +1,49 @@
+.image-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+img {
+    max-width: 200px;
+    height: auto;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#favoritos{
+    color: midnightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#favoritos-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+#btn-favoritos {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #F52A48;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+#btn-favoritos:hover {
+    background-color: #17ae1a;
+}

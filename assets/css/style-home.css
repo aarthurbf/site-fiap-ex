@@ -32,3 +32,20 @@ li {
     font-size: 18px;
     line-height: 30px;
 }
+#favoritos-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+#btn-favoritos {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #F52A48;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+#btn-favoritos:hover {
+    background-color: #17ae1a;
+}
